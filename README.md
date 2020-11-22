@@ -1,6 +1,6 @@
 # Iceberg for `iterm`
 
-> Unofficial port of light version of iceberg.vim colorscheme
+> Unofficial port of iceberg.vim light theme
 
 ![](preview.png)
 
